@@ -343,7 +343,7 @@ This project is licensed under the MIT License.
 
 For issues, feature requests, or support:
 - Create an issue on the repository
-- Contact: ohm.supakornth@gmail.com
+- Contact: tinpat.vitya@gmail.com
 
 ## Project Status
 
